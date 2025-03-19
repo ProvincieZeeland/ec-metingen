@@ -1,4 +1,4 @@
-# Download KNMI Neerslag Rasters
+# KNMI Neerslag rasters downloaden en sampelen aan de hand van EC-metingen
 
 Dit script downloadt neerslagdata van het KNMI, verwerkt de bestanden, zet ze om naar GeoTIFF en slaat ze op in een database.
 
