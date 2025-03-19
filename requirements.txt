@@ -14,7 +14,7 @@ netCDF4==1.7.2
 numpy==2.2.4
 packaging==24.2
 pandas==2.2.3
-pip==23.2.1
+pip==23.3
 psycopg2==2.9.10
 pyogrio==0.10.0
 pyparsing==3.2.1
