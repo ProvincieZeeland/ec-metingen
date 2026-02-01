@@ -7,7 +7,7 @@ cligj==0.7.2
 colorama==0.4.6
 configparser==7.2.0
 geoalchemy2==0.17.1
-geopandas==1.0.1
+geopandas==1.1.2
 greenlet==3.1.1
 idna==3.10
 netCDF4==1.7.2
